@@ -139,3 +139,8 @@ function buildErrorResponse(message) {
 
 }
 ```
+
+
+If you still have any query regarding the same, please mail your queries at <a href="mailto:t3rabyt3@protonmail.com">t3rabyt3@protonmail.com</a>.
+
+PEACE OUT!
